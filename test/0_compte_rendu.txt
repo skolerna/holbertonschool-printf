@@ -1,0 +1,12 @@
+mardi 24 matin :
+- ouverture et préparation du projet printf
+	- création et préparation de main.h
+	- création et préparation de printf.c
+- structure de notre dossier
+
+mardi 24 après midi :
+- répartition des taches
+
+
+
+
