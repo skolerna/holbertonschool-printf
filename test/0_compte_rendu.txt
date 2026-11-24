@@ -6,7 +6,6 @@ mardi 24 matin :
 
 mardi 24 après midi :
 - répartition des taches
-
-
-
-
+- Réflexion sur la structure des fonctions et analyse du prototype
+- Ajout de _putchar.c 
+- Réflexion sur le fonctionnement write et putchar
