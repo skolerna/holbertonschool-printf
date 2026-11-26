@@ -9,3 +9,13 @@ mardi 24 après midi :
 - Réflexion sur la structure des fonctions et analyse du prototype
 - Ajout de _putchar.c 
 - Réflexion sur le fonctionnement write et putchar
+
+Mercredi aprem : 
+
+- Réalisation d'un flowchart
+- Création de Miro pour une utilisation commune
+- Création de branches personnelles pour ne pas push directement sur main
+- Décision du choix d'utilisation entre write() et/ou le _putchar() personnalisé, choix arrêté 
+sur le _putchar() personnalisé
+- Finalisation du fichier switch.c ( reste le type par rapport au proto )
+- Avancement du fichier printf.c
