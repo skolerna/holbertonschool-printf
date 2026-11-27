@@ -34,25 +34,11 @@ int _printf(const char *format, ...)
 			/* Vérifie qu'un caractère existe après le % */
 			if (format[i + 1] != '\0')
 			{
-				if (format[i + 1] == '%')
-				{
-					/* Afficher un seul % */
-					if (_putchar('%') == -1)
-					{
-						va_end(args);
-						return (-1);
-					}
-					count++;
-					i++;
-				}
-				else
-				{
 					/* Test switch.c */
-				}
 			}
 			else
 			{
-				/* Gérer le % en fin de chaîne */
+				/* Gérer le % en fin de chaîne pour pas appeler switch.c */
 			}
 		}
 		else
