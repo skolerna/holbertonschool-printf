@@ -10,12 +10,19 @@ mardi 24 après midi :
 - Ajout de _putchar.c 
 - Réflexion sur le fonctionnement write et putchar
 
-Mercredi aprem : 
+Mercredi 25 aprem : 
 
 - Réalisation d'un flowchart
 - Création de Miro pour une utilisation commune
 - Création de branches personnelles pour ne pas push directement sur main
 - Décision du choix d'utilisation entre write() et/ou le _putchar() personnalisé, choix arrêté 
 sur le _putchar() personnalisé
-- Finalisation du fichier switch.c ( reste le type par rapport au proto )
+- Finalisation du fichier switch.c
+- Finalisation du fichier main.h
 - Avancement du fichier printf.c
+
+Vendredi 27 aprem :
+- relecture de ce que l'autre à fait
+- suppression du %% dans le printf (fait par la switch)
+- grande avancé sur print_spec
+- explication et discution sur la comparaison de la switch
